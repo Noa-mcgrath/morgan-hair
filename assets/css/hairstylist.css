@@ -1467,6 +1467,12 @@ h2 em {
     margin: 0;
 }
 
+.service-menu-content .service-price {
+    color: var(--theme-teal-deep);
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
 .booking-panel {
     background: linear-gradient(120deg, #ede3f2, #e5dff1 58%, #d8e9eb);
     border: 1px solid rgba(172, 125, 167, 0.22);
